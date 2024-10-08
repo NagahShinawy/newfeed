@@ -7,9 +7,6 @@ A simple RESTful API built with Flask to manage blog posts. The API allows users
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
-- [API Endpoints](#api-endpoints)
-- [Developer Guide](#developer-guide)
-- [License](#license)
 
 ## Features
 
